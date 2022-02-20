@@ -1,1 +1,1 @@
-# Gallery
+# Galleries
